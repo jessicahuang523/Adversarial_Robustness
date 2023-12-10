@@ -1,0 +1,4 @@
+cifar10_after_runner/
+data/
+tmp_cifar10/
+__pycache__/
